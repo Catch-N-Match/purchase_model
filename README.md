@@ -1,2 +1,1 @@
 # purchase_model
-# test
